@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-go94hl40s-yohann84l.vercel.app//api?username=yohann84L&show_icons=true&include_all_commits=true" alt="Yohann's github stats" />
 
   
-<details>
-<summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
@@ -57,4 +55,3 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 23/08/2022 10:30:49 UTC
 <!--END_SECTION:waka-->
-</details>
