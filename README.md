@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 773 Contributions in the Year 2022
+> 🏆 771 Contributions in the Year 2022
  > 
 > 📦 440.4 kB Used in GitHub's Storage 
  > 
@@ -40,10 +40,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/yohann84L/yohann84L/master/charts/bar_graph.png) 
-
-
- Last Updated on 23/08/2022 11:43:15 UTC
+ Last Updated on 23/08/2022 11:53:32 UTC
 <!--END_SECTION:waka-->
