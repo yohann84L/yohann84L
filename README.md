@@ -4,7 +4,7 @@
   💻 Computer Vision Engineer and Tech Lead at <a href="https://trayvisor.com/">Trayvisor</a><br/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-go94hl40s-yohann84l.vercel.app//api?username=yohann84L&show_icons=true&include_all_commits=true" alt="Yohann's github stats" /> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-dviw-8taegaswk-yohann84ls-projects.vercel.app//api?username=yohann84L&show_icons=true&include_all_commits=true" alt="Yohann's github stats" /> </a>
 
 
 <details>
