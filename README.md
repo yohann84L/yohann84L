@@ -1,7 +1,7 @@
 <p>
-  👨🏻 <bold>Yohann</bold>, 27 ans<br/>
-  💼 Living in <a href="https://www.google.com/maps?q=paris">Paris</a>, France<br/>
-  💻 Computer Vision Engineer and Tech Lead at <a href="https://trayvisor.com/">Trayvisor</a><br/>
+  👨🏻 <bold>Yohann</bold>, 29 ans<br/>
+  💼 Living in <a href="https://www.google.com/maps?q=toulouse">Toulouse</a>, France<br/>
+  💻 CTO at <a href="https://trayvisor.com/">Trayvisor</a><br/>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-dviw-8taegaswk-yohann84ls-projects.vercel.app//api?username=yohann84L&show_icons=true&include_all_commits=true" alt="Yohann's github stats" /> </a>
