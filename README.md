@@ -1,5 +1,5 @@
 <p>
-  👨🏻 <bold>Yohann</bold>, 29 ans<br/>
+  👨🏻 <bold>Yohann</bold>, 30 ans<br/>
   💼 Living in <a href="https://www.google.com/maps?q=toulouse">Toulouse</a>, France<br/>
   💻 CTO at <a href="https://trayvisor.com/">Trayvisor</a><br/>
 </p>
