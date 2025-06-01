@@ -55,13 +55,13 @@ Sunday                   977 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Image (svg)              10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Figma                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +77,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2025 00:40:51 UTC
+ Last Updated on 01/06/2025 00:49:44 UTC
 <!--END_SECTION:waka-->
