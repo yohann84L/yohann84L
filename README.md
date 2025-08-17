@@ -12,13 +12,15 @@
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 441.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 567 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +55,13 @@ Sunday                   1191 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Image (svg)              2 hrs 35 mins       █████████████████████████   100.00 % 
+Image (svg)              2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Figma                    2 hrs 35 mins       █████████████████████████   100.00 % 
+Figma                    2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +77,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2025 00:42:50 UTC
+ Last Updated on 17/08/2025 00:51:26 UTC
 <!--END_SECTION:waka-->
