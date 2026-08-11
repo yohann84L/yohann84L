@@ -57,27 +57,27 @@ Sunday                   1551 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    20 hrs              ████████████████░░░░░░░░░   63.47 % 
-TypeScript               3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Python                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Markdown                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Other                    19 hrs 27 mins      ████████████████░░░░░░░░░   63.09 % 
+TypeScript               3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Python                   2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Markdown                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-Warp                     8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-ChatGPT                  6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Claude Code              5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Linear                   4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-VS Code                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Warp                     8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+ChatGPT                  6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Claude Code              5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Linear                   3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+VS Code                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 
 💻 Operating System: 
-Mac                      31 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 4 mins (57.35%)
+⏱ AI Coding Time: 18 hrs 4 mins (58.62%)
 
 ✍️ 18,385 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -112,5 +112,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 02:38:23 UTC
+ Last Updated on 11/08/2026 02:26:48 UTC
 <!--END_SECTION:waka-->
