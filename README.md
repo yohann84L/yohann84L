@@ -12,9 +12,9 @@
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -22,7 +22,7 @@
 
 > 📦 444.2 kB Used in GitHub's Storage 
  > 
-> 🏆 990 Contributions in the Year 2026
+> 🏆 997 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,21 +33,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41873 commits       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-🌆 Daytime                82767 commits       ██████████████░░░░░░░░░░░   58.00 % 
-🌃 Evening                17842 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌙 Night                  231 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+🌞 Morning                43182 commits       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌆 Daytime                85813 commits       ███████████████░░░░░░░░░░   58.11 % 
+🌃 Evening                18456 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌙 Night                  230 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   27149 commits       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Tuesday                  26675 commits       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Wednesday                28283 commits       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Thursday                 28508 commits       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Friday                   29192 commits       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Saturday                 1164 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Sunday                   1742 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Monday                   28136 commits       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Tuesday                  27646 commits       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Wednesday                29208 commits       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Thursday                 29548 commits       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Friday                   30151 commits       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Saturday                 1228 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Sunday                   1764 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 
@@ -57,44 +57,44 @@ Sunday                   1742 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    10 hrs              ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-Python                   8 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-TypeScript               7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Markdown                 5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-JavaScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    12 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   30.63 % 
+Python                   10 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Markdown                 7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+TypeScript               6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+JavaScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.90 % 
-Codex Vscode             8 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-ChatGPT                  5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Warp                     5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Zed                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Claude Code              14 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.19 % 
+Codex Vscode             9 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+ChatGPT                  7 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Warp                     6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Zed                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 💻 Operating System: 
-Mac                      35 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 56 mins (84.74%)
+⏱ AI Coding Time: 33 hrs 55 mins (82.62%)
 
-✍️ 18,363 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 24,794 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,035,842 Input Tokens, 1,835,891 Output Tokens
+🔤 22,815,839 Input Tokens, 2,220,826 Output Tokens
 
-💵 $422.10 Estimated AI Cost This Week
+💵 $504.32 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 314 AI Prompts
+🧠 91 AI Sessions, 352 AI Prompts
 
-GPT                      13,406 lines        █████████████████░░░░░░░░   67.54 % 
-Opus                     3,620 lines         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Sonnet                   2,822 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+GPT                      17,649 lines        █████████████████░░░░░░░░   66.17 % 
+Opus                     8,052 lines         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+Sonnet                   970 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 19,017 characters per prompt
+📚 Verbose Prompter — average 17,033 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -112,5 +112,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 11:25:44 UTC
+ Last Updated on 29/08/2026 07:07:02 UTC
 <!--END_SECTION:waka-->
