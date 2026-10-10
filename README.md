@@ -12,15 +12,17 @@
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 444.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,367 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,19 +33,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                48343 commits       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌆 Daytime                97504 commits       ███████████████░░░░░░░░░░   58.33 % 
-🌃 Evening                21077 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌞 Morning                48363 commits       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+🌆 Daytime                97571 commits       ███████████████░░░░░░░░░░   58.33 % 
+🌃 Evening                21093 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 🌙 Night                  236 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   31825 commits       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Tuesday                  31418 commits       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Wednesday                32977 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Thursday                 33595 commits       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Friday                   33947 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Monday                   31852 commits       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Tuesday                  31422 commits       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Wednesday                32988 commits       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Thursday                 33606 commits       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Friday                   33997 commits       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 Saturday                 1477 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Sunday                   1921 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
@@ -55,45 +57,45 @@ Sunday                   1921 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    29 hrs 1 min        ██████████████░░░░░░░░░░░   54.16 % 
-Python                   9 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Markdown                 7 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-TypeScript               4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Text                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other                    26 hrs 3 mins       █████████████░░░░░░░░░░░░   52.77 % 
+Python                   8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Markdown                 7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+TypeScript               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Text                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-ChatGPT                  21 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.40 % 
-Codex Vscode             10 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Warp                     8 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Claude Code              7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Zed                      3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+ChatGPT                  20 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   41.51 % 
+Codex Vscode             9 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Warp                     8 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Claude Code              6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Zed                      2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 💻 Operating System: 
-Mac                      53 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      49 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 58 mins (59.67%)
+⏱ AI Coding Time: 28 hrs 28 mins (57.67%)
 
-✍️ 20,234 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 19,547 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 32,004,059 Input Tokens, 3,121,436 Output Tokens
+🔤 25,529,885 Input Tokens, 2,483,438 Output Tokens
 
-💵 $415.66 Estimated AI Cost This Week
+💵 $380.44 Estimated AI Cost This Week
 
-🧠 211 AI Sessions, 1158 AI Prompts
+🧠 197 AI Sessions, 1085 AI Prompts
 
-Opus                     12,098 lines        ███████████████░░░░░░░░░░   59.24 % 
-GPT                      8,325 lines         ██████████░░░░░░░░░░░░░░░   40.76 % 
+Opus                     10,266 lines        █████████████░░░░░░░░░░░░   52.04 % 
+GPT                      9,463 lines         ████████████░░░░░░░░░░░░░   47.96 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 14,504 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 13,057 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -110,5 +112,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 06:08:58 UTC
+ Last Updated on 10/10/2026 05:50:26 UTC
 <!--END_SECTION:waka-->
